@@ -18,5 +18,5 @@ window.onload = function () {
 		}
 		checkboxes[i].setAttribute('checked', 'true');
 		console.log(checkboxes[i]);
-	}, 3000);
+	}, 10000);
 }
